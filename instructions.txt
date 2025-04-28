@@ -1,0 +1,22 @@
+Task: Complete the main.py file.
+
+Function Assignment:
+    write your name inside the function just comment it.
+
+    You can choose which function you want to work on.
+
+    First come, first serve: The function will be assigned to the first person who claims it. Once a function is taken, it is no longer available for others.
+
+Branching:
+
+    Create a new branch in the repository.
+
+    Name your branch appropriately (e.g., feature/function-name).
+
+    Work on the assigned function in your branch.
+
+Submitting Your Work:
+
+    After finishing the function, merge your branch into the test branch.
+
+    Ensure that your code is properly tested and works before merging.
