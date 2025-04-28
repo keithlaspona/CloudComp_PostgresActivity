@@ -32,7 +32,7 @@ try:
             CREATE TABLE IF NOT EXISTS tasks (
                 id SERIAL PRIMARY KEY,
                 task VARCHAR(255) NOT NULL,
-                deadline DATE NOT NULL,
+                deadline VARCHAR(255) NOT NULL,
                 username VARCHAR(255) NOT NULL,
                 FOREIGN KEY (username) REFERENCES users(username) ON DELETE CASCADE
             );
